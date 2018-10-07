@@ -1,0 +1,4 @@
+data/access_log filter=lfs diff=lfs merge=lfs -text
+data/access_log_fake filter=lfs diff=lfs merge=lfs -text
+data/shakespeare.txt filter=lfs diff=lfs merge=lfs -text
+data/weblogs filter=lfs diff=lfs merge=lfs -text
